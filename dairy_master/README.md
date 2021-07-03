@@ -1,7 +1,7 @@
 Dairy
 =====
 
-Simple Dairy Record Management System built with vanilla php as a Pro-Bono Project for a college student
+Simple Dairy Record Management System built with vanilla php 
 
 ## Features 
 * Manage farmers
